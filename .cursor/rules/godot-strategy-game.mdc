@@ -1,0 +1,31 @@
+---
+description: Godot 4 strategy-game project defaults for this repository. Apply when writing gameplay, tooling, or export code.
+alwaysApply: true
+---
+
+# Strategy game — Godot 4
+
+This repository is a **Godot 4.7** strategy game. Primary ship target is **Windows**; **macOS** comes later from the same project.
+
+## Engine and language
+
+- Use **Godot 4.7.2** with **GDScript**. Do not introduce C#/.NET unless explicitly requested.
+- Keep `project.godot` at the repository root. Do not create a second Godot project.
+- Prefer GodotPrompter skills (`godot-project-setup`, `godot-brainstorming`, `scene-organization`, `state-machine`, `resource-pattern`, `save-load`, `export-pipeline`, `godot-testing`) over generic game-engine advice.
+- For planning and specs, prefer OpenSpec (`openspec-explore`, `openspec-propose`) and Superpowers (`brainstorming`, `writing-plans`) before writing large features.
+- GSD (`gsd-new-project`, `gsd-onboard`, phase loop) is available for longer milestones.
+
+## Layout
+
+Split layout: `assets/`, `scenes/`, `scripts/`, `resources/`, `addons/`. Put systems that strategy games usually need (turns, map, fog, factions, economy) under `scripts/` and `resources/` once the design exists — do not invent them early.
+
+## Verification
+
+- Lint GDScript with `gdlint`.
+- Headless smoke: `./scripts/smoke-test.sh`
+- Windows export: `./scripts/export-windows.sh`
+- macOS export (unsigned from Linux): `./scripts/export-macos.sh`
+
+## Export
+
+Commit `export_presets.cfg`. Never commit signing secrets, keystores, or Apple/Windows certificates. Windows `application/modify_resources` stays off until rcedit/Wine is intentionally added.

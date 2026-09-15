@@ -1,0 +1,33 @@
+name: Export Windows
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - "project.godot"
+      - "export_presets.cfg"
+      - "scenes/**"
+      - "scripts/**"
+      - "assets/**"
+      - "resources/**"
+      - ".github/workflows/export-windows.yml"
+jobs:
+  windows:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Cache Godot
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.local/opt/godot
+            ~/.local/share/godot/export_templates
+            ~/.cache/game-dev/downloads
+          key: godot-4.7.2-${{ runner.os }}
+      - name: Install toolchain
+        run: ./scripts/cloud-agent-install.sh
+      - name: Export Windows
+        run: ./scripts/export-windows.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: windows-x86_64
+          path: build/windows/

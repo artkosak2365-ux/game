@@ -1,0 +1,569 @@
+{
+  "skills": [
+    {
+      "name": "2d-essentials",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/2d-essentials"
+    },
+    {
+      "name": "3d-essentials",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/3d-essentials"
+    },
+    {
+      "name": "ability-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/ability-system"
+    },
+    {
+      "name": "addon-development",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/addon-development"
+    },
+    {
+      "name": "ai-navigation",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/ai-navigation"
+    },
+    {
+      "name": "animation-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/animation-system"
+    },
+    {
+      "name": "assets-pipeline",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/assets-pipeline"
+    },
+    {
+      "name": "audio-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/audio-system"
+    },
+    {
+      "name": "beehave",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/beehave"
+    },
+    {
+      "name": "camera-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/camera-system"
+    },
+    {
+      "name": "component-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/component-system"
+    },
+    {
+      "name": "csharp-godot",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/csharp-godot"
+    },
+    {
+      "name": "csharp-signals",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/csharp-signals"
+    },
+    {
+      "name": "dedicated-server",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/dedicated-server"
+    },
+    {
+      "name": "dependency-injection",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/dependency-injection"
+    },
+    {
+      "name": "dialogue-manager",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/dialogue-manager"
+    },
+    {
+      "name": "dialogue-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/dialogue-system"
+    },
+    {
+      "name": "event-bus",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/event-bus"
+    },
+    {
+      "name": "export-pipeline",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/export-pipeline"
+    },
+    {
+      "name": "gdextension",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/gdextension"
+    },
+    {
+      "name": "gdscript-advanced",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/gdscript-advanced"
+    },
+    {
+      "name": "gdscript-patterns",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/gdscript-patterns"
+    },
+    {
+      "name": "godot-brainstorming",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/godot-brainstorming"
+    },
+    {
+      "name": "godot-code-review",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/godot-code-review"
+    },
+    {
+      "name": "godot-debugging",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/godot-debugging"
+    },
+    {
+      "name": "godot-mentor",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/godot-mentor"
+    },
+    {
+      "name": "godot-optimization",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/godot-optimization"
+    },
+    {
+      "name": "godot-project-setup",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/godot-project-setup"
+    },
+    {
+      "name": "godot-testing",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/godot-testing"
+    },
+    {
+      "name": "godot-ui",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/godot-ui"
+    },
+    {
+      "name": "hud-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/hud-system"
+    },
+    {
+      "name": "input-handling",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/input-handling"
+    },
+    {
+      "name": "inventory-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/inventory-system"
+    },
+    {
+      "name": "limboai",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/limboai"
+    },
+    {
+      "name": "localization",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/localization"
+    },
+    {
+      "name": "math-essentials",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/math-essentials"
+    },
+    {
+      "name": "mobile-development",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/mobile-development"
+    },
+    {
+      "name": "multiplayer-basics",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/multiplayer-basics"
+    },
+    {
+      "name": "multiplayer-sync",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/multiplayer-sync"
+    },
+    {
+      "name": "multithreading",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/multithreading"
+    },
+    {
+      "name": "particles-vfx",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/particles-vfx"
+    },
+    {
+      "name": "phantom-camera",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/phantom-camera"
+    },
+    {
+      "name": "physics-system",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/physics-system"
+    },
+    {
+      "name": "player-controller",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/player-controller"
+    },
+    {
+      "name": "popochiu",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/popochiu"
+    },
+    {
+      "name": "procedural-generation",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/procedural-generation"
+    },
+    {
+      "name": "resource-pattern",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/resource-pattern"
+    },
+    {
+      "name": "responsive-ui",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/responsive-ui"
+    },
+    {
+      "name": "save-load",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/save-load"
+    },
+    {
+      "name": "scene-organization",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/scene-organization"
+    },
+    {
+      "name": "shader-basics",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/shader-basics"
+    },
+    {
+      "name": "state-machine",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/state-machine"
+    },
+    {
+      "name": "tween-animation",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/tween-animation"
+    },
+    {
+      "name": "using-godot-prompter",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/using-godot-prompter"
+    },
+    {
+      "name": "xr-development",
+      "origin": "jame581/GodotPrompter",
+      "from": "/tmp/skill-sources/GodotPrompter/skills/xr-development"
+    },
+    {
+      "name": "brainstorming",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/brainstorming"
+    },
+    {
+      "name": "dispatching-parallel-agents",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/dispatching-parallel-agents"
+    },
+    {
+      "name": "executing-plans",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/executing-plans"
+    },
+    {
+      "name": "finishing-a-development-branch",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/finishing-a-development-branch"
+    },
+    {
+      "name": "receiving-code-review",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/receiving-code-review"
+    },
+    {
+      "name": "requesting-code-review",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/requesting-code-review"
+    },
+    {
+      "name": "subagent-driven-development",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/subagent-driven-development"
+    },
+    {
+      "name": "systematic-debugging",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/systematic-debugging"
+    },
+    {
+      "name": "test-driven-development",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/test-driven-development"
+    },
+    {
+      "name": "using-git-worktrees",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/using-git-worktrees"
+    },
+    {
+      "name": "using-superpowers",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/using-superpowers"
+    },
+    {
+      "name": "verification-before-completion",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/verification-before-completion"
+    },
+    {
+      "name": "writing-plans",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/writing-plans"
+    },
+    {
+      "name": "writing-skills",
+      "origin": "obra/superpowers",
+      "from": "/tmp/skill-sources/superpowers/skills/writing-skills"
+    },
+    {
+      "name": "karpathy-guidelines",
+      "origin": "multica-ai/andrej-karpathy-skills",
+      "from": "/tmp/skill-sources/andrej-karpathy-skills/skills/karpathy-guidelines"
+    },
+    {
+      "name": "ask-matt",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/ask-matt"
+    },
+    {
+      "name": "code-review",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/code-review"
+    },
+    {
+      "name": "codebase-design",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/codebase-design"
+    },
+    {
+      "name": "diagnosing-bugs",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/diagnosing-bugs"
+    },
+    {
+      "name": "domain-modeling",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/domain-modeling"
+    },
+    {
+      "name": "grill-with-docs",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/grill-with-docs"
+    },
+    {
+      "name": "implement",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/implement"
+    },
+    {
+      "name": "improve-codebase-architecture",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/improve-codebase-architecture"
+    },
+    {
+      "name": "prototype",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/prototype"
+    },
+    {
+      "name": "research",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/research"
+    },
+    {
+      "name": "resolving-merge-conflicts",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/resolving-merge-conflicts"
+    },
+    {
+      "name": "setup-matt-pocock-skills",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/setup-matt-pocock-skills"
+    },
+    {
+      "name": "tdd",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/tdd"
+    },
+    {
+      "name": "to-spec",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/to-spec"
+    },
+    {
+      "name": "to-tickets",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/to-tickets"
+    },
+    {
+      "name": "triage",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/triage"
+    },
+    {
+      "name": "wayfinder",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/wayfinder"
+    },
+    {
+      "name": "wizard",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/engineering/wizard"
+    },
+    {
+      "name": "grill-me",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/productivity/grill-me"
+    },
+    {
+      "name": "grilling",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/productivity/grilling"
+    },
+    {
+      "name": "handoff",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/productivity/handoff"
+    },
+    {
+      "name": "teach",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/productivity/teach"
+    },
+    {
+      "name": "to-questionnaire",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/productivity/to-questionnaire"
+    },
+    {
+      "name": "wait-what",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/productivity/wait-what"
+    },
+    {
+      "name": "writing-for-agents",
+      "origin": "mattpocock/skills",
+      "from": "/tmp/skill-sources/mattpocock-skills/skills/productivity/writing-for-agents"
+    },
+    {
+      "name": "openspec-apply-change",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-apply-change"
+    },
+    {
+      "name": "openspec-archive-change",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-archive-change"
+    },
+    {
+      "name": "openspec-bulk-archive-change",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-bulk-archive-change"
+    },
+    {
+      "name": "openspec-continue-change",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-continue-change"
+    },
+    {
+      "name": "openspec-explore",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-explore"
+    },
+    {
+      "name": "openspec-ff-change",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-ff-change"
+    },
+    {
+      "name": "openspec-new-change",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-new-change"
+    },
+    {
+      "name": "openspec-onboard",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-onboard"
+    },
+    {
+      "name": "openspec-propose",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-propose"
+    },
+    {
+      "name": "openspec-sync-specs",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-sync-specs"
+    },
+    {
+      "name": "openspec-update-change",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-update-change"
+    },
+    {
+      "name": "openspec-verify-change",
+      "origin": "Fission-AI/OpenSpec",
+      "from": "/tmp/skill-sources/OpenSpec/skills/openspec-verify-change"
+    }
+  ],
+  "sources": {
+    "GodotPrompter": {
+      "url": "https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJaeXFaS1gyLWQ5NDJjYklaT0dPMldES0NPa2hiWWJGZkswNUV1OVFacHlkUWlHdk5xY1hIWk5oZlk4UXdqdUUiLCJleHAiOjE3ODk1MDA0MTQsImlhdCI6MTc4OTQ5NjgxNCwiaXNzIjoiZ2l0aHViIiwianRpIjoiOWRkMjVkYjEtOTljNi00ZDM0LWFmYmEtYzY1MWM5ZDJmNGU0IiwidmVyIjozfQ.fqHLDyxGvQ-QWgFpRw4RzOwvppCD3N5MJacfXh31tCNCVwtubnqvz7y2aiSFsyQgUYTJXm2ruFXsc_bbPTYHwg@github.com/jame581/GodotPrompter.git",
+      "sha": "4e16e1679cf65b68bde0d020f1e13847dc24c1a7"
+    },
+    "superpowers": {
+      "url": "https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJaeXFaS1gyLWQ5NDJjYklaT0dPMldES0NPa2hiWWJGZkswNUV1OVFacHlkUWlHdk5xY1hIWk5oZlk4UXdqdUUiLCJleHAiOjE3ODk1MDA0MTQsImlhdCI6MTc4OTQ5NjgxNCwiaXNzIjoiZ2l0aHViIiwianRpIjoiOWRkMjVkYjEtOTljNi00ZDM0LWFmYmEtYzY1MWM5ZDJmNGU0IiwidmVyIjozfQ.fqHLDyxGvQ-QWgFpRw4RzOwvppCD3N5MJacfXh31tCNCVwtubnqvz7y2aiSFsyQgUYTJXm2ruFXsc_bbPTYHwg@github.com/obra/superpowers.git",
+      "sha": "b36e0829c6d0140e93cfef2ca599b1b07d4a7797"
+    },
+    "andrej-karpathy-skills": {
+      "url": "https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJaeXFaS1gyLWQ5NDJjYklaT0dPMldES0NPa2hiWWJGZkswNUV1OVFacHlkUWlHdk5xY1hIWk5oZlk4UXdqdUUiLCJleHAiOjE3ODk1MDA0MTQsImlhdCI6MTc4OTQ5NjgxNCwiaXNzIjoiZ2l0aHViIiwianRpIjoiOWRkMjVkYjEtOTljNi00ZDM0LWFmYmEtYzY1MWM5ZDJmNGU0IiwidmVyIjozfQ.fqHLDyxGvQ-QWgFpRw4RzOwvppCD3N5MJacfXh31tCNCVwtubnqvz7y2aiSFsyQgUYTJXm2ruFXsc_bbPTYHwg@github.com/multica-ai/andrej-karpathy-skills.git",
+      "sha": "2c606141936f1eeef17fa3043a72095b4765b9c2"
+    },
+    "mattpocock-skills": {
+      "url": "https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJaeXFaS1gyLWQ5NDJjYklaT0dPMldES0NPa2hiWWJGZkswNUV1OVFacHlkUWlHdk5xY1hIWk5oZlk4UXdqdUUiLCJleHAiOjE3ODk1MDA0MTQsImlhdCI6MTc4OTQ5NjgxNCwiaXNzIjoiZ2l0aHViIiwianRpIjoiOWRkMjVkYjEtOTljNi00ZDM0LWFmYmEtYzY1MWM5ZDJmNGU0IiwidmVyIjozfQ.fqHLDyxGvQ-QWgFpRw4RzOwvppCD3N5MJacfXh31tCNCVwtubnqvz7y2aiSFsyQgUYTJXm2ruFXsc_bbPTYHwg@github.com/mattpocock/skills.git",
+      "sha": "959a8e9f1edc3adbe2f7e3054bb6fbefa6696260"
+    },
+    "OpenSpec": {
+      "url": "https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJaeXFaS1gyLWQ5NDJjYklaT0dPMldES0NPa2hiWWJGZkswNUV1OVFacHlkUWlHdk5xY1hIWk5oZlk4UXdqdUUiLCJleHAiOjE3ODk1MDA0MTQsImlhdCI6MTc4OTQ5NjgxNCwiaXNzIjoiZ2l0aHViIiwianRpIjoiOWRkMjVkYjEtOTljNi00ZDM0LWFmYmEtYzY1MWM5ZDJmNGU0IiwidmVyIjozfQ.fqHLDyxGvQ-QWgFpRw4RzOwvppCD3N5MJacfXh31tCNCVwtubnqvz7y2aiSFsyQgUYTJXm2ruFXsc_bbPTYHwg@github.com/Fission-AI/OpenSpec.git",
+      "sha": "9d4e5974e5c0d9a09b9c6c1e1eb0975e80ec4461"
+    },
+    "gsd-core": {
+      "url": "https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJaeXFaS1gyLWQ5NDJjYklaT0dPMldES0NPa2hiWWJGZkswNUV1OVFacHlkUWlHdk5xY1hIWk5oZlk4UXdqdUUiLCJleHAiOjE3ODk1MDA0MTQsImlhdCI6MTc4OTQ5NjgxNCwiaXNzIjoiZ2l0aHViIiwianRpIjoiOWRkMjVkYjEtOTljNi00ZDM0LWFmYmEtYzY1MWM5ZDJmNGU0IiwidmVyIjozfQ.fqHLDyxGvQ-QWgFpRw4RzOwvppCD3N5MJacfXh31tCNCVwtubnqvz7y2aiSFsyQgUYTJXm2ruFXsc_bbPTYHwg@github.com/open-gsd/gsd-core.git",
+      "sha": "779f67cb11fac8190624381926e3e6bb889722f3"
+    },
+    "get-shit-done": {
+      "url": "https://x-access-token:ghs_1210556_eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhdXRobmQiLCJjdHgiOiJaeXFaS1gyLWQ5NDJjYklaT0dPMldES0NPa2hiWWJGZkswNUV1OVFacHlkUWlHdk5xY1hIWk5oZlk4UXdqdUUiLCJleHAiOjE3ODk1MDA0MTQsImlhdCI6MTc4OTQ5NjgxNCwiaXNzIjoiZ2l0aHViIiwianRpIjoiOWRkMjVkYjEtOTljNi00ZDM0LWFmYmEtYzY1MWM5ZDJmNGU0IiwidmVyIjozfQ.fqHLDyxGvQ-QWgFpRw4RzOwvppCD3N5MJacfXh31tCNCVwtubnqvz7y2aiSFsyQgUYTJXm2ruFXsc_bbPTYHwg@github.com/gsd-build/get-shit-done.git",
+      "sha": "bdcaab2c752d9a33a1a1ca9acf3a3c81fb991815"
+    }
+  }
+}

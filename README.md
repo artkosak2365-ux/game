@@ -1,8 +1,17 @@
-# game
+# Dystopia
 
-Godot 4.7 strategy game. Windows is the first ship target; macOS uses the same project later.
+Pausable real-time civilization sim in Godot 4.7. The world is a dystopia; the hidden goal is a felt utopia — no meter, no victory banner.
 
-Game design details are still open. This repository currently holds the engine project, Cloud Agent toolchain, and agent skills.
+Windows is the first ship target; macOS uses the same project later.
+
+Design notes live in [`docs/`](docs/README.md):
+
+- [Five peoples](docs/setting/races.md) (provisional)
+- [Seven continents](docs/setting/continents.md) (provisional)
+- [Visual climate](docs/setting/visual-climate.md)
+- [Hidden utopia vector](docs/systems/utopia-vector.md)
+
+The playable slice is a home valley: named people, timed building, one levy, a chronicle instead of an opinion bar, and pause/speed on a simulation clock.
 
 ## Toolchain
 

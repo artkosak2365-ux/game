@@ -10,8 +10,8 @@ config_version=5
 
 [application]
 
-config/name="Strategy Game"
-config/description="Strategy game — Windows first, macOS later"
+config/name="Dystopia"
+config/description="Pausable real-time civilization sim. The world is a dystopia; the hidden goal is a felt utopia."
 run/main_scene="res://scenes/screens/main.tscn"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 config/icon="res://icon.svg"
@@ -20,6 +20,7 @@ config/icon="res://icon.svg"
 
 EventBus="*res://scripts/autoloads/event_bus.gd"
 GameManager="*res://scripts/autoloads/game_manager.gd"
+SimClock="*res://scripts/autoloads/sim_clock.gd"
 
 [display]
 

@@ -53,7 +53,7 @@ func _compute_needs(living: Array) -> void:
 		return
 	var ok := 0
 	for agent in living:
-		var humane := (
+		var humane: bool = (
 			agent.hunger >= HUMANE_HUNGER
 			and agent.rest >= HUMANE_REST
 			and agent.shelter >= HUMANE_SHELTER

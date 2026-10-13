@@ -3,8 +3,8 @@ extends RefCounted
 
 ## Home-valley settlement: people, one levy, timed dwellings, a chronicle.
 
-const HUNGER_DECAY := 0.025
-const REST_DECAY := 0.02
+const HUNGER_DECAY := 0.004
+const REST_DECAY := 0.003
 const LEVY_HUNGER := 0.07
 const LEVY_REST := 0.08
 const GRAIN_PER_WORKER := 0.45
